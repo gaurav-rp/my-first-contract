@@ -1,0 +1,2 @@
+a35b2feb5332e24786ac2f889cf836600ab6a6d35e2733a9812d374065c7d891  target/wasm32-unknown-unknown/release/counter.wasm
+78f311fdd7fb304323fae84ce7ad482114f540d3aad080d16381ecea7fa18761  target/wasm32-unknown-unknown/release/wrapped_token.wasm
